@@ -5,3 +5,4 @@ build/
 *.log
 *.pyc
 .cache/
+.pytest_cache/
